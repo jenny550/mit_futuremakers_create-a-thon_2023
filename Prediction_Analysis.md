@@ -1,5 +1,5 @@
 # Prediction Analysis
-##Fuel Sources
+## Fuel Sources
 
 * Vegetation
 * Forest Fuels
@@ -12,4 +12,4 @@
 * Human-made Fuels
 * Lightning
 
-##APIs
+## APIs
